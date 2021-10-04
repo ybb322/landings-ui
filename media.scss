@@ -1633,8 +1633,9 @@
 
   .footer {
     background: linear-gradient(315.06deg, #152649 5%, #4f525c 100%);
+    height: 40vw;
     &__nav-container {
-      width: 90%;
+      width: 100%;
       padding-top: 1vw;
       margin: auto;
       margin-bottom: 0.5vw;
